@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HRZ\\Cms\\" : "src/"
+            "HRZ2\\Cms\\" : "src/"
         }
     },
     "require": {
