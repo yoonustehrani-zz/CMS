@@ -1,21 +1,21 @@
 {
-    "name": "wishadmin/hrzcms",
+    "name"       : "wishadmin/hrzcms",
     "description": "content management system for HRZ site",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
+    "type"       : "project",
+    "license"    : "MIT",
+    "authors"    : [
         {
-            "name": "Yoonus Tehrani",
+            "name" : "Yoonus Tehrani",
             "email": "yoonustehrani28@gmail.com"
         }
     ],
-    "autoload": {
+    "autoload"   : {
         "psr-4": {
             "HRZ\\Cms\\" : "src/"
         }
     },
-    "require": {
+    "require"    : {
         "Illuminate/Support" : "~5",
-		"caffeinated/flash" : "~2.0"
+	"caffeinated/flash"  : "~2.0"
     }
 }
