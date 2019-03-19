@@ -1,0 +1,20 @@
+{
+    "name": "hrz/cms",
+    "description": "content management system for HRZ site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoonus Tehrani",
+            "email": "yoonustehrani28@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HRZ\\Cms\\" : "src/"
+        }
+    },
+    "require": {
+        "Illuminate/Support" : "~5"
+    }
+}
