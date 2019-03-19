@@ -15,6 +15,6 @@
         }
     },
     "require": {
-        "Illuminate/Support" : "~5"
+        "Illuminate/Support" : "~5.1"
     }
 }
